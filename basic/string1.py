@@ -29,7 +29,6 @@ def donuts(count):
     #else:
     #    return "Number of donuts: many"
     return "Number of donuts: " + (str(count) if count < 10 else "many")
-print (donuts(12))
     
 
 # B. both_ends
